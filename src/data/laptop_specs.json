@@ -1,0 +1,142 @@
+{
+  "laptop_1": {
+    "name": "PowerLap Air7622",
+    "ram": "4GB",
+    "gpu": "NVIDIA RTX 3070",
+    "cpu": "Intel i3",
+    "storage": "512GB SSD"
+  },
+  "laptop_2": {
+    "name": "EliteBook Ultra1215",
+    "ram": "32GB",
+    "gpu": "NVIDIA RTX 3050",
+    "cpu": "AMD Ryzen 9",
+    "storage": "512GB SSD"
+  },
+  "laptop_3": {
+    "name": "SmartTech Ultra7892",
+    "ram": "8GB",
+    "gpu": "AMD Radeon RX 6600M",
+    "cpu": "AMD Ryzen 7",
+    "storage": "1TB HDD + 256GB SSD"
+  },
+  "laptop_4": {
+    "name": "TechPro Pro7511",
+    "ram": "16GB",
+    "gpu": "NVIDIA RTX 3070",
+    "cpu": "Intel i9",
+    "storage": "1TB SSD"
+  },
+  "laptop_5": {
+    "name": "SmartTech Ultra9706",
+    "ram": "32GB",
+    "gpu": "NVIDIA RTX 3060",
+    "cpu": "Intel i9",
+    "storage": "1TB SSD"
+  },
+  "laptop_6": {
+    "name": "EliteBook Pro8783",
+    "ram": "64GB",
+    "gpu": "NVIDIA RTX 3070",
+    "cpu": "Intel i7",
+    "storage": "1TB HDD + 256GB SSD"
+  },
+  "laptop_7": {
+    "name": "InnoBook Z2426",
+    "ram": "16GB",
+    "gpu": "Intel UHD Graphics",
+    "cpu": "Intel i7",
+    "storage": "256GB SSD"
+  },
+  "laptop_8": {
+    "name": "EliteBook Air6097",
+    "ram": "16GB",
+    "gpu": "Intel Iris Xe Graphics",
+    "cpu": "Intel i5",
+    "storage": "1TB HDD + 256GB SSD"
+  },
+  "laptop_9": {
+    "name": "InnoBook Pro4650",
+    "ram": "16GB",
+    "gpu": "Intel UHD Graphics",
+    "cpu": "Intel i7",
+    "storage": "256GB SSD"
+  },
+  "laptop_10": {
+    "name": "SmartTech Ultra2140",
+    "ram": "4GB",
+    "gpu": "NVIDIA RTX 3050",
+    "cpu": "Intel i3",
+    "storage": "1TB HDD + 256GB SSD"
+  },
+  "laptop_11": {
+    "name": "EliteBook Air1258",
+    "ram": "64GB",
+    "gpu": "AMD Radeon RX 6600M",
+    "cpu": "AMD Ryzen 9",
+    "storage": "1TB SSD"
+  },
+  "laptop_12": {
+    "name": "EliteBook Ultra1969",
+    "ram": "16GB",
+    "gpu": "AMD Radeon RX 6600M",
+    "cpu": "Intel i7",
+    "storage": "1TB HDD + 256GB SSD"
+  },
+  "laptop_13": {
+    "name": "TechPro Air7967",
+    "ram": "8GB",
+    "gpu": "NVIDIA RTX 3050",
+    "cpu": "AMD Ryzen 7",
+    "storage": "512GB SSD"
+  },
+  "laptop_14": {
+    "name": "PowerLap Pro5409",
+    "ram": "4GB",
+    "gpu": "Intel UHD Graphics",
+    "cpu": "Intel i3",
+    "storage": "256GB SSD"
+  },
+  "laptop_15": {
+    "name": "SmartTech Z8481",
+    "ram": "8GB",
+    "gpu": "Intel Iris Xe Graphics",
+    "cpu": "AMD Ryzen 7",
+    "storage": "256GB SSD"
+  },
+  "laptop_16": {
+    "name": "PowerLap Ultra4843",
+    "ram": "32GB",
+    "gpu": "NVIDIA RTX 3060",
+    "cpu": "AMD Ryzen 7",
+    "storage": "512GB SSD"
+  },
+  "laptop_17": {
+    "name": "SmartTech Y6958",
+    "ram": "16GB",
+    "gpu": "NVIDIA RTX 3070",
+    "cpu": "AMD Ryzen 5",
+    "storage": "256GB SSD"
+  },
+  "laptop_18": {
+    "name": "EliteBook Z4264",
+    "ram": "32GB",
+    "gpu": "NVIDIA RTX 3070",
+    "cpu": "AMD Ryzen 9",
+    "storage": "512GB SSD"
+  },
+  "laptop_19": {
+    "name": "TechPro Y4171",
+    "ram": "8GB",
+    "gpu": "Intel Iris Xe Graphics",
+    "cpu": "AMD Ryzen 5",
+    "storage": "1TB HDD + 256GB SSD"
+  },
+  "laptop_20": {
+    "name": "EliteBook Air4208",
+    "ram": "16GB",
+    "gpu": "Intel UHD Graphics",
+    "cpu": "Intel i7",
+    "storage": "1TB HDD + 256GB SSD"
+  }
+}
