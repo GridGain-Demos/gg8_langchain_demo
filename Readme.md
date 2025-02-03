@@ -66,6 +66,7 @@ The above diagram illustrates the architecture and flow of the laptop recommenda
     * Alternatively, ensure Python 3.11.7 is installed directly.
 2. A running GridGain Enterprise or Ultimate Edition, at least 8.9.17 ([release notes](https://www.gridgain.com/docs/latest/release-notes/8.9.17/release-notes_8.9.17))
    - Make sure your license includes access to the vector search feature.
+   - If you see any error about gridgain-vector-query or vector search not enabled, you need to enable it by moving libs/optional/gridgain-vector-query to the libs/ folder
 3. OpenAI API key
    1. Visit https://platform.openai.com/signup
    2. Create an account (or sign in if you already have one)
@@ -73,6 +74,7 @@ The above diagram illustrates the architecture and flow of the laptop recommenda
    4. Click "Create new secret key"
    5. Add your billing information (required for API access)
    6. Make sure to copy and save your API key immediately after creation - you won't be able to see it again after leaving the page
+   7. If you’re seeing quota issues with respect to OpenAI, you need to purchase OpenAI credits
 
 ## Installation
 
