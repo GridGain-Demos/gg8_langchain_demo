@@ -86,7 +86,7 @@ The above diagram illustrates the architecture and flow of the laptop recommenda
    
 2. Install all the required dependencies:
    ```
-   pip install langchain-gridgain==1.0.0 langchain==0.3.10 pandas==2.2.2 numpy==1.26.4 langchain-community==0.3.10 langchain-openai==0.2.12
+   pip install langchain-gridgain==1.0.1 langchain==0.3.10 langchain-community==0.3.10 langchain-openai==0.2.12
    ```
 
 ## Usage
